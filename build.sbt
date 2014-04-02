@@ -29,4 +29,3 @@ pomExtra :=
 
 scalacOptions += "-deprecation"
 
-libraryDependencies += "org.apache.ant" % "ant" % "1.9.2"
